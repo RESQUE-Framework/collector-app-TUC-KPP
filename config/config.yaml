@@ -57,7 +57,7 @@ min_RO_warning_threshold: 0
 # which packs should be included?
 meta:
   sources: ["packs/core-meta.json", "packs/user.json"]
-  exclude: ["DateCreated", "LastChange", "METASEP1"]
+  exclude: ["RaterType", "DateCreated", "LastChange", "METASEP1"]
   config:
     min_indicators_warning_threshold: 0
 
