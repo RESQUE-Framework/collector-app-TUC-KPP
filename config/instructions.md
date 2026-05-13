@@ -1,6 +1,6 @@
 Liebe Bewerberin, lieber Bewerber,
 
-für die Bewerbung auf die [Professur XYZ](https:/www.LINK-TO-ANNOUNCEMENT.de) der Universität XYZ fordert die Kommission ein RESQUE Profil an. Mit dieser App können Sie das Profil erstellen.
+für die Bewerbung auf die W3-Professur „Klinische Psychologie und Psychotherapie“ der TU Chemnitz fordert die Kommission ein RESQUE Profil an. Mit dieser App können Sie das Profil erstellen.
 Folgende Informationen sind wichtig:
 
 - Sie können beliebig viele ihrer Publikationen in das Tool eintragen, aber **maximal 10 Publikationen** bei der Kommission einreichen. Um die Breite Ihres Profils zu zeigen, empfehlen wir, auch alle 10 Slots zu nutzen, aber **mindestens 5 Publikationen** einzureichen.
@@ -11,6 +11,6 @@ Folgende Informationen sind wichtig:
 
 Hinweis zum Datenschutz: Die App läuft ausschließlich lokal im Browser auf Ihrem Rechner. Es werden keine Daten an einen Server übertragen. Die Daten werden nur in Ihrem Browser gespeichert.
 
-Bei Fragen oder Problemen mit der RESQUE App wenden Sie sich bitte an [Ihre Ansprechperson](mailto:name@universitaet.de).
+Bei Fragen oder Problemen mit der RESQUE App wenden Sie sich bitte an Prof. Dr. Frank Asbrock (frank.asbrock@psychologie.tu-chemnitz.de).
 
 Auf der nächsten Seite bekommen Sie eine Einführung, wie die App zu benutzen ist.
